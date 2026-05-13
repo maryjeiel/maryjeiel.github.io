@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some Dreams Are Doors"
-date: 2026-05-12
+date: 2026-04-02
 ---
 
 There is a certain kind of tension that comes with growth. The pull between letting go and holding on, not out of weakness, but out of awareness. That is exactly where I am right now.
