@@ -261,3 +261,34 @@ body {
     font-size: 1.5rem;
   }
 }
+.subscribe-footer {
+  text-align: center;
+  padding: 40px 0 60px;
+  border-top: 1px solid var(--border);
+}
+
+.subscribe-input {
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  width: 260px;
+  background: var(--bg);
+  color: var(--text);
+  margin-right: 8px;
+}
+
+.subscribe-btn {
+  padding: 10px 20px;
+  background: var(--text);
+  color: var(--bg);
+  border: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.subscribe-btn:hover {
+  opacity: 0.8;
+}
