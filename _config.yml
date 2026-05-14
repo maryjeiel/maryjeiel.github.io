@@ -16,7 +16,7 @@ timezone:
 
 title: MJ's Blog
 
-tagline: Wanderlust
+tagline: '<details><summary>Wanderlust</summary>I still have a lot of things that I do not know. That is why I want to explore more things in this world.</details>' 
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
